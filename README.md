@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jlifts
-- 👀 I’m interested in coding and making cool web experiences and tech.
-- 🌱 I’m currently learning Solidity, React, NodeJS and Python.
+- 👀 I’m interested in coding and making cool web experiences and tech, robots are pretty cool too.
+- 🌱 I’m currently learning Solidity, React/NextJS, Typescript, NodeJS, and Python.
 - 💞️ I’m looking to collaborate on any project really!
 - 📫 How to reach me burgessj247@gmail.com
 
