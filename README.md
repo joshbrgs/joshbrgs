@@ -11,7 +11,7 @@
 ## My Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jlifts&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlifts&theme=tokyonight&layout=compact)
-[![jlifts's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jlifts)](https://github.com/jlifts/github-readme-stats)
+<!-- [![jlifts's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jlifts)](https://github.com/jlifts/github-readme-stats) -->
 
 ## 🧰 Languages and Tools:
 <p align="center">
