@@ -1,11 +1,10 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=jlifts.jlifts)
 # A little About Me
 - 👋 Hi, I’m @jlifts
-- :gear: I’m interested in coding and making cool web experiences, mobile and tech, robots are pretty cool too.
-- 🌱 I’m alwayslearning new tech, but some of my favorites are React/NextJS, NodeJS, React Native, Typescript, Go, and Python.
-- :desktop_computer: I’m looking to collaborate on open source projects or interesting applications!
+- :gear: I’m interested in building experiences!
+- 🌱 I’m alwayslearning new tech, but some of my favorites are React/NextJS, React Native, Typescript, Golang, Rust, WASM, and all things Kubernetes.
+- :desktop_computer: I’m love contributing to CNCF Projects!
 - 📫 You can reach me at burgessj247@gmail.com
-- :atom: Ubuntu and Mac IOS is a go to
 - :octocat: [Click to see my Site](https://www.joshb.io)
 
 ## My Stats
