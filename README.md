@@ -15,7 +15,7 @@
 ## 🧰 Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,kafka,aws,gcp,flutter,ableton,go,typescript,javascript,python,react,jest,express,graphql,postegres,mongo,dynamodb,tailwindcss,kotlin,deno,figma,apollo,jenkins,githubactions,androidstudio,arduino&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,kafka,aws,gcp,flutter,ableton,go,typescript,javascript,python,react,jest,express,graphql,postgres,mongo,dynamodb,tailwindcss,kotlin,deno,figma,apollo,jenkins,githubactions,androidstudio,arduino&perline=8" />
 <!--   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="40" align="left" alt="Python">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" height="40" align="left" alt="Golang">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="40" align="left" alt="Typescript">
