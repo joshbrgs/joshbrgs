@@ -2,8 +2,8 @@
 # A little About Me
 - 👋 Hi, I’m @jlifts
 - :gear: I’m interested in building experiences!
-- 🌱 I’m alwayslearning new tech, but some of my favorites are React/NextJS, React Native, Typescript, Golang, Rust, WASM, and all things Kubernetes.
-- :desktop_computer: I’m love contributing to CNCF Projects!
+- 🌱 I’m alwayslearning new tech, but some of my favorites are React/NextJS, React Native, Typescript, Golang, AWS, and all things Kubernetes.
+- :desktop_computer: Find me helping with CNCF Projects, especially Argo!
 - 📫 You can reach me at burgessj247@gmail.com
 - :octocat: [Click to see my Site](https://www.joshb.io)
 
@@ -18,14 +18,12 @@
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" height="40" align="left" alt="Golang">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="40" align="left" alt="Typescript">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="40" align="left" alt="JavaScript">
-  <img align="left" alt="Node.js" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
   <img align="left" alt="React" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   <img align="left" alt="Next.js" height="40" src="https://raw.githubusercontent.com/vercel/next.js/canary/examples/cms-wordpress/public/favicon/favicon.ico" />
-<!--   <img align="left" alt="Flutter" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svgo" /> -->
+  <img align="left" alt="Flutter" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svgo" />
   <img align="left" alt="TailwindCSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="left" alt="MongoDB" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
   <img align="left" alt="PostgreSQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-original.svg" />
-  <img align="left" alt="FireBase" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/firebase/firebase-plain.svg" />
   <img align="left" alt="GraphQL" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
   <img align="left" alt="Docker" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
   <img align="left" alt="Terminal" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
