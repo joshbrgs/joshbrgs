@@ -1,8 +1,8 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=jlifts.jlifts)
 # A little About Me
-- 👋 Hi, I’m @jlifts
+- 👋 Hi, I’m Josh Burgess
 - :gear: I’m interested in building experiences!
-- 🌱 I’m alwayslearning new tech, but some of my favorites are React/NextJS, React Native, Typescript, Golang, AWS, and all things Kubernetes.
+- 🌱 I’m always learning new tech, but some of my favorites are React/NextJS, React Native, Typescript, Golang, AWS, Argo and all things Kubernetes.
 - :desktop_computer: Find me helping with CNCF Projects, especially Argo!
 - 📫 You can reach me at burgessj247@gmail.com
 - :octocat: [Click to see my Site](https://www.joshb.io)
@@ -15,7 +15,7 @@
 ## 🧰 Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,kafka,aws,gcp,flutter,ableton,go,typescript,javascript,python,react,jest,express,graphql,postegresql,mongo,dynamodb,tailwindcss,kotlin,deno,figma,apollo,jenkins,githubactions,androidstudio,arduino&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,kafka,aws,gcp,flutter,ableton,go,typescript,javascript,python,react,jest,express,graphql,postegresql,mongo,dynamodb,tailwindcss,kotlin,deno,figma,apollo,jenkins,githubactions,androidstudio,arduino&perline=8" />
 <!--   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="40" align="left" alt="Python">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" height="40" align="left" alt="Golang">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="40" align="left" alt="Typescript">
