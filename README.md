@@ -1,4 +1,4 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=jlifts.jlifts)
+![](https://visitor-badge.laobi.icu/badge?page_id=joshbrgs.joshbrgs)
 # A little About Me
 - 👋 Hi, I’m Josh Burgess
 - :gear: I’m interested in building experiences!
@@ -8,9 +8,9 @@
 - :octocat: [Click to see my Site](https://www.joshb.io)
 
 ## My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jlifts&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlifts&theme=tokyonight&layout=compact)
-<!-- [![jlifts's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jlifts)](https://github.com/jlifts/github-readme-stats) -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joshbrgs&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshbrgs&theme=tokyonight&layout=compact)
+<!-- [![joshbrgs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joshbrgs)](https://github.com/jlifts/github-readme-stats) -->
 
 ## 🧰 Languages and Tools:
 <p align="center">
