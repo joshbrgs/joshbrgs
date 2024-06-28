@@ -2,8 +2,8 @@
 # A little About Me
 - 👋 Hi, I’m Josh Burgess
 - :gear: I’m interested in building experiences!
-- 🌱 I’m always learning new tech, but some of my favorites are React/NextJS, React Native, Typescript, Golang, AWS, Argo and all things Kubernetes.
-- :desktop_computer: Find me helping with CNCF Projects, especially Argo!
+- 🌱 I’m always learning new tech, but some of my favorites are Flutter, React, all things Golang, AWS, Argo, and of course Kubernetes.
+- :desktop_computer: Find me helping with CNCF Projects, especially Argo and OpenFeature!
 - 📫 You can reach me at burgessj247@gmail.com
 - :octocat: [Click to see my Site](https://www.joshb.io)
 
