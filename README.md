@@ -4,7 +4,7 @@
 - :gear: I’m interested in building experiences!
 - 🌱 I’m always learning new tech, but some of my favorites are Flutter, React, all things Golang, AWS, Argo, and of course Kubernetes.
 - :desktop_computer: Find me helping with CNCF Projects, especially Argo and OpenFeature!
-- 📫 You can reach me at burgessj247@gmail.com
+- 📫 You can reach me at josh@joshb.io
 - :octocat: [Click to see my Site](https://www.joshb.io)
 
 ## My Stats
